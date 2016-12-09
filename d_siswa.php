@@ -1,6 +1,6 @@
 <?php
-	//Nama: dedi styawan
-	//Nim: 14.11.7933
+	//Nama: Teuku Ampon Nurtriansyah
+	//Nim: 14.11.7936
 	require_once('lib/DBClass.php');
 	require_once('lib/m_siswa.php');
 
